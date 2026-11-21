@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="10" failures="0" errors="0" time="3.487">
+  <testsuite name="Exemplos — regras (funções puras)" errors="0" failures="0" skipped="0" timestamp="2026-11-20T18:40:38" time="2.792" tests="5">
+    <testcase classname="Exemplos — regras (funções puras) validarId deve converter o texto &quot;7&quot; para o número 7" name="Exemplos — regras (funções puras) validarId deve converter o texto &quot;7&quot; para o número 7" time="0.017">
+    </testcase>
+    <testcase classname="Exemplos — regras (funções puras) montarPadrao deve recusar um modo de busca que não existe" name="Exemplos — regras (funções puras) montarPadrao deve recusar um modo de busca que não existe" time="0.023">
+    </testcase>
+    <testcase classname="Exemplos — rotas (repository falso) GET /imoveis/1 deve responder 200 com o registro encontrado" name="Exemplos — rotas (repository falso) GET /imoveis/1 deve responder 200 com o registro encontrado" time="0.067">
+    </testcase>
+    <testcase classname="Exemplos — rotas (repository falso) GET /finalidades deve responder 200 com a lista vinda do repository" name="Exemplos — rotas (repository falso) GET /finalidades deve responder 200 com a lista vinda do repository" time="0.011">
+    </testcase>
+    <testcase classname="Exemplos — rotas (repository falso) POST /imoveis deve responder 400 quando finalidadeId vem como texto" name="Exemplos — rotas (repository falso) POST /imoveis deve responder 400 quando finalidadeId vem como texto" time="0.035">
+    </testcase>
+  </testsuite>
+  <testsuite name="Cenários CT02, CT06, CT10, CT14 e CT18 — API de Imóveis" errors="0" failures="0" skipped="0" timestamp="2026-11-20T18:40:38" time="2.81" tests="5">
+    <testcase classname="Cenários CT02, CT06, CT10, CT14 e CT18 — API de Imóveis CT18 deve lançar erro citando inscricao quando o formato for inválido" name="Cenários CT02, CT06, CT10, CT14 e CT18 — API de Imóveis CT18 deve lançar erro citando inscricao quando o formato for inválido" time="0.041">
+    </testcase>
+    <testcase classname="Cenários CT02, CT06, CT10, CT14 e CT18 — API de Imóveis CT02 deve responder 409 e não inserir quando a inscrição já existir" name="Cenários CT02, CT06, CT10, CT14 e CT18 — API de Imóveis CT02 deve responder 409 e não inserir quando a inscrição já existir" time="0.119">
+    </testcase>
+    <testcase classname="Cenários CT02, CT06, CT10, CT14 e CT18 — API de Imóveis CT06 deve responder 409 e não atualizar quando a inscrição pertencer a outro registro" name="Cenários CT02, CT06, CT10, CT14 e CT18 — API de Imóveis CT06 deve responder 409 e não atualizar quando a inscrição pertencer a outro registro" time="0.008">
+    </testcase>
+    <testcase classname="Cenários CT02, CT06, CT10, CT14 e CT18 — API de Imóveis CT10 deve responder 404 com Imóvel não encontrado quando id não existir" name="Cenários CT02, CT06, CT10, CT14 e CT18 — API de Imóveis CT10 deve responder 404 com Imóvel não encontrado quando id não existir" time="0.005">
+    </testcase>
+    <testcase classname="Cenários CT02, CT06, CT10, CT14 e CT18 — API de Imóveis CT14 deve responder 404 quando tentar excluir registro inexistente" name="Cenários CT02, CT06, CT10, CT14 e CT18 — API de Imóveis CT14 deve responder 404 quando tentar excluir registro inexistente" time="0.005">
+    </testcase>
+  </testsuite>
+</testsuites>

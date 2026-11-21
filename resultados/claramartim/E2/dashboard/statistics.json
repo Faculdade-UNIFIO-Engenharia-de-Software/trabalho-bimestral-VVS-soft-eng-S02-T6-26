@@ -1,0 +1,34 @@
+{
+  "Requisição JDBC" : {
+    "transaction" : "Requisição JDBC",
+    "sampleCount" : 100000,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 4.603600000000102,
+    "medianResTime" : 3.0,
+    "minResTime" : 1.0,
+    "maxResTime" : 1395.0,
+    "pct1ResTime" : 6.0,
+    "pct2ResTime" : 8.0,
+    "pct3ResTime" : 11.0,
+    "throughput" : 747.4903013133405,
+    "receivedKBytesPerSec" : 6.569738976386781,
+    "sentKBytesPerSec" : 0.0
+  },
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 100000,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 4.603600000000102,
+    "medianResTime" : 3.0,
+    "minResTime" : 1.0,
+    "maxResTime" : 1395.0,
+    "pct1ResTime" : 6.0,
+    "pct2ResTime" : 8.0,
+    "pct3ResTime" : 11.0,
+    "throughput" : 747.4903013133405,
+    "receivedKBytesPerSec" : 6.569738976386781,
+    "sentKBytesPerSec" : 0.0
+  }
+}

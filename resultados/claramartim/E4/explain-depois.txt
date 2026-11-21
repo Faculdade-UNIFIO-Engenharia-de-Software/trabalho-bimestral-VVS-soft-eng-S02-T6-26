@@ -1,0 +1,2 @@
+﻿id	select_type	table	partitions	type	possible_keys	key	key_len	ref	rows	filtered	Extra
+1	SIMPLE	imoveis	NULL	range	idx_imoveis_endereco	idx_imoveis_endereco	602	NULL	22	100.00	Using index condition

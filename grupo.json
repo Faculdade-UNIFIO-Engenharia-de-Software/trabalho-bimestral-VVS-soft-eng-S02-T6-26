@@ -12,10 +12,10 @@
     },
     {
       "integrante": 2,
-      "nome": "",
-      "ra": "",
-      "github": "",
-      "emails": []
+      "nome": "Clara",
+      "ra": "271965",
+      "github": "claramartim",
+      "emails": ["271965@unifio.edu.br"]
     },
     {
       "integrante": 3,
@@ -26,13 +26,6 @@
     },
     {
       "integrante": 4,
-      "nome": "",
-      "ra": "",
-      "github": "",
-      "emails": []
-    },
-    {
-      "integrante": 5,
       "nome": "",
       "ra": "",
       "github": "",
